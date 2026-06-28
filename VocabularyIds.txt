@@ -1,0 +1,27 @@
+CDM
+Condition Status
+Cost
+Episode
+HCPCS
+ICD9Proc
+Korean Revenue Code
+LOINC
+Language
+Metadata
+NDC
+OMOP Extension
+OSM
+Plan
+Plan Stop Reason
+Relationship
+RxNorm
+RxNorm Extension
+SNOMED
+SOPT
+Sponsor
+Type Concept
+UB04 Pri Typ of Adm
+UB04 Typ bill
+UCUM
+US Census
+Visit

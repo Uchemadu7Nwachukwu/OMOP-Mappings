@@ -1,0 +1,100 @@
+10th level
+11th level
+12th level
+2-dig nonbill code
+2nd level
+3-dig billing code
+3-dig nonbill code
+3rd level
+4-dig billing code
+4th level
+5th level
+6th level
+7th level
+8th level
+9th level
+Answer
+Attribute
+Benefit
+Body Structure
+Branded Dose Group
+Branded Drug
+Branded Drug Box
+Branded Drug Comp
+Branded Drug Form
+Branded Pack
+Branded Pack Box
+CDM
+Canonical Unit
+Claims Attachment
+Clinical Dose Group
+Clinical Drug
+Clinical Drug Box
+Clinical Drug Comp
+Clinical Drug Form
+Clinical Finding
+Clinical Observation
+Clinical Pack
+Clinical Pack Box
+Condition Status
+Context-dependent
+Detail
+Device
+Disease Dynamic
+Disease Extent
+Disorder
+Disposition
+Doc Kind
+Doc Role
+Doc Setting
+Doc Subject Matter
+Doc Type of Service
+Dose Form Group
+Episode of Care
+Event
+Field
+HCPCS
+HCPCS Modifier
+Ingredient
+LOINC Class
+LOINC Group
+LOINC Hierarchy
+Lab Test
+Language
+Linkage Assertion
+Linkage Concept
+Location
+Marketed Product
+Metadata
+Metal level
+Morph Abnormality
+Observable Entity
+Organism
+Payer
+Pharma/Biol Product
+Physical Object
+Plan Stop Reason
+Precoordinated pair
+Procedure
+Qualifier Value
+Quant Branded Box
+Quant Branded Drug
+Quant Clinical Box
+Quant Clinical Drug
+Relationship
+Revenue Code
+Social Context
+Specimen
+Sponsor
+Staging / Scales
+Substance
+Summary
+Survey
+Table
+Treatment
+Type Concept
+UB04 Pri Typ of Adm
+US Census Division
+US Census Region
+Unit
+Visit
